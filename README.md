@@ -15,5 +15,5 @@ Building quickstart tutorial from Angular 2 official site here: https://angular.
 
 ``` npm start ```
 
-## I hope it works!
-### Regards, Oriana A. Ruiz
+#### I hope it works!
+##### Regards, Oriana A. Ruiz
